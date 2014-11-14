@@ -1,0 +1,7 @@
+Java-Apps
+=========
+
+A launcher project for 4 java apps
+
+Download launcher.jar and resources.
+Opening launcher.jar will present the user to open an app.
